@@ -3,7 +3,6 @@
 - 💻 I have beginner/intermediate knowledge in Java and JavaScript (React, Express, Node.js).
 - 👀 Interested in web dev (front and back end).
 - 🍣 My favorite food is SUSHI!
-- 📫 You can reach me via email at jlee.post24@gmail.com!
 
 <!---
 jleesys/jleesys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
